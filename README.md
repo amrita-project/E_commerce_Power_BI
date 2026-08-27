@@ -1,1 +1,1 @@
-"# HR Workforce Analytics Dashboard" 
+"# Human Resources (HR) Workforce Analytics Dashboard" 
